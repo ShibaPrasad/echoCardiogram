@@ -6,7 +6,7 @@
 #SBATCH --tmp=200gb
 ##SBATCH --gres=gpu:v100:1
 #SBATCH --mail-type=ALL
-#SBATCH --mail-user=kuana001@umn.edu
+#SBATCH --mail-user=xxxxx@xxx.edu
 #SBATCH --nodes=1
 ##SBATCH --partition=msibigmem
 #SBATCH --partition=ag2tb
